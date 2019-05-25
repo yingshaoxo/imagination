@@ -1,5 +1,3 @@
 /bazel-*
-*.pyc
-__pycache__
 *.swp
 .vscode/
