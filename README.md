@@ -1,5 +1,7 @@
 # A playground(template) for C/C++.
 
+### Bazel Installation
+https://docs.bazel.build/versions/master/install-ubuntu.html#ubuntu
 
 ### Build
 ```
